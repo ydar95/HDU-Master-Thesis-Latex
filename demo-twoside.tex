@@ -1,0 +1,61 @@
+%\documentclass[oneside,blindreview]{template/hdu_master_thesis} % 单面+盲审
+\documentclass[twoside]{template/hdu_master_thesis} % 双面
+\usepackage{biblatex}
+
+
+\blindreviewhead{全日制专业型研究生} %全日制专业型研究生，全日制学术型研究生，...
+
+\title{基于\LaTeX 的杭州电子科技大学研究生硕士论文模版}
+\englishtitle{Master thesis template of Postgraduates of Hangzhou University of Electronic Science and technology based on latex}
+\author{作者是我}
+\englishauthor{I'm Author}
+
+\supervisor{导师是我}
+\englishsupervisor{I’m Supervisor}
+\spvtitle{教授}
+\englishspvtitle{Prof.}
+
+\research{深度学习}
+\major{计算机科技与计算}
+
+\submitdate{2022年05月}
+\defencedate{2022年03月}
+\englishdefencedate{May 2022}
+
+\graphicspath{{./figures/}}
+\addbibresource{ref.bib}
+
+
+\begin{document}
+% 封面、中文题名页、英文题名页、独创声明和版权使用书 无页码
+%\usetag{blindreview}% 要盲审风格启动这个，记得 注释“致谢.tex”和一些特殊信息（人名，学校，敏感信息）
+\maketitle
+
+\frontmatter
+% 摘要部分
+\include{contents/abstract_chinese.tex}
+\include{contents/abstract_english.tex}
+
+% 目录和术语表
+\tableofcontents % 正文目录
+\listoffigures   % 图目录，格式不正确，需要调整
+\listoftables    % 表目录，格式不正确，需要调整
+%\include{contents/denotation}% 术语及缩略词表(需要则开)
+
+% 正文
+\mainmatter
+\include{contents/intro.tex} % 绪论
+\include{contents/whyla.tex}
+\include{contents/elem.tex}
+\include{contents/sum.tex}
+
+\include{contents/thanks.tex} % 致谢有人放到正文最后，有人放到附录
+\backmatter
+
+% 引用参考文献数据库
+\printbibliography[heading=bibintoc]
+
+% 附录部分
+\appendix
+\include{contents/self}
+\end{document}

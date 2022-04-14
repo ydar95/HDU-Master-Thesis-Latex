@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6ab07167-fa32-4c1b-a1d9-9ac034c515b8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/contents/abstract_chinese.aux" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/contents/abstract_english.aux" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/contents/elem.aux" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/contents/intro.aux" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/contents/self.aux" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/contents/sum.aux" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/contents/thanks.aux" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/contents/whyla.aux" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/demo.aux" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/demo.bbl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/demo.bcf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/demo.blg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/demo.lof" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/demo.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/demo.lot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/demo.run.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/demo.synctex.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/demo.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contents/abstract_chinese.aux" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contents/abstract_chinese.tex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contents/abstract_english.aux" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contents/abstract_english.tex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contents/elem.aux" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contents/elem.tex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contents/intro.aux" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contents/intro.tex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contents/self.aux" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contents/self.tex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contents/sum.aux" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contents/sum.tex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contents/thanks.aux" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contents/thanks.tex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contents/whyla.aux" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contents/whyla.tex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-oneside-blindreview.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-twoside.tex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figures/activity.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figures/baolimo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figures/compu-comp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figures/gscholar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figures/hello.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figures/lingsha.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figures/lost-and-found.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figures/plus-1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figures/raster.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figures/simple-frame.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figures/tex-arc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figures/vector.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figures/wenhui.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figures/workflow.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figures/xuejian.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ref.bib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/fonts/Adobe-Fangsong-Std.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/fonts/Adobe-Heiti-Std.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/fonts/Adobe-Kaiti-Std.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/fonts/Adobe-Song-Std.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/fonts/FangSong.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/fonts/KaiTi.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/fonts/SimHei.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/fonts/SimSun.ttc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/fonts/texgyrecursor-bold.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/fonts/texgyrecursor-bolditalic.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/fonts/texgyrecursor-italic.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/fonts/texgyrecursor-regular.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/fonts/texgyreheros-bold.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/fonts/texgyreheros-bolditalic.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/fonts/texgyreheros-italic.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/fonts/texgyreheros-regular.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/fonts/texgyretermes-bold.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/fonts/texgyretermes-bolditalic.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/fonts/texgyretermes-italic.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/fonts/texgyretermes-regular.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/hdu_master_thesis.cls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/logo/HDUlogo.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="27mQQMkOYrCVgFyRZTuXgYVM3kT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.cidr.embedded.config" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6ab07167-fa32-4c1b-a1d9-9ac034c515b8" name="Changes" comment="" />
+      <created>1649922766517</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1649922766517</updated>
+      <workItem from="1649922768897" duration="31000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
